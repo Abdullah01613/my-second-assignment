@@ -25,5 +25,8 @@ div{
     font-size: 15px;
     margin-right: 35px;
 }
+i{
+    visibility: hidden;
+}
 
 /* menu bar done */
