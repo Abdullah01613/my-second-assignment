@@ -59,6 +59,14 @@
     padding: 15px 80px;
 }
 
+.meet-team-img{
+    flex-direction: column;
+}
+.meet-team-img img{
+    /* padding-left: 20px; */
+    border-radius: 48px;
+}
+
 
 
 
