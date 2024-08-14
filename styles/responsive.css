@@ -1,11 +1,20 @@
 @media screen and (max-width: 576px) {
     i{
         visibility: visible;
-        color: white;
     }
     .button-nav{
         visibility: hidden;
     }
     .banner-main{
         flex-direction: column;
+}
+.banner-contant h1, p{
+    padding-bottom: 10px;
+}
+.banner-left{
+    width: 100%;
+}
+.banner-right{
+    width: 100%; 
+}
 }

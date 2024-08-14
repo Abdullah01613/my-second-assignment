@@ -55,7 +55,7 @@ i{
 }
 .banner-left{
     width: 40%;
-    margin-top: 50px;
+    margin-top: 105px;
 }
 
 .banner-contant{
@@ -65,6 +65,8 @@ i{
 
 .banner-bottom{
     margin-top: 10px;
+    width: 100%;
+    gap: 10px;
 }
 
 .banner-right{
