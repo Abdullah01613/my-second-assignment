@@ -1,8 +1,11 @@
 @media screen and (max-width: 576px) {
     i{
         visibility: visible;
+        color: white;
     }
     .button-nav{
         visibility: hidden;
     }
+    .banner-main{
+        flex-direction: column;
 }

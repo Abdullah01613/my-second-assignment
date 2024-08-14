@@ -55,14 +55,50 @@ i{
 }
 .banner-left{
     width: 40%;
+    margin-top: 50px;
 }
+
+.banner-contant{
+    font-weight: bolder;
+    font-size: larger;
+}
+
 .banner-bottom{
     margin-top: 10px;
 }
 
 .banner-right{
     position: relative;
-    background-image: url(../images/Images\ 2.png);
-    background-repeat: no-repeat;
-    background-size: cover;
+    width: 40%; 
+}
+.banner-right-img img{
+    width: 80%;
+    padding-left: 30px;
+}
+.free{
+    border-radius: 10px;
+    background: #373D3D;
+    padding: 10px 10px;
+    width: 30%;
+    border: 1px solid #373D3D;
+    color: white;
+    font-weight: bolder;
+    position: absolute;
+    font-size: large;
+    left: 200px;
+    top: 90px;
+}
+
+.tutorial{
+    border-radius: 10px;
+    background: #373D3D;
+    padding: 10px 10px;
+    width: 30%;
+    border: 1px solid #373D3D;
+    color: white;
+    font-weight: bolder;
+    position: absolute;
+    font-size: large;
+    right: 280px;
+    bottom: 50px;
 }
