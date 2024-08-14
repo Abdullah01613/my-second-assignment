@@ -166,3 +166,15 @@ i{
     padding: 27px;
     height: 300px;
  }
+
+ .BMI{
+    width: 80%;
+    margin: 0 auto;
+    padding-top: 48px;
+    padding-left: 95px;
+    padding-bottom: 50px;
+ }
+ .BMI p{
+    font-size: small;
+    padding-top: 15px;
+ }
