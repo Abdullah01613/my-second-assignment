@@ -138,11 +138,27 @@ i{
  .run-contant{
     width: 40%;
     margin-top: 35px;
-    padding: 20px;
+    padding-left: 40px;
+ }
+
+ .run-contant h2{
+    font-size: 32px;
+    font-weight: 600;
+    padding-bottom: 15px;
  }
  .run-contant p{
     padding-bottom: 10px;
+    font-size: 16px;
+    font-weight: 400;
  }
+
+ .join{
+    border-radius: 42px; 
+    background: rgb(230, 83, 60); 
+    padding: 10px 40px;
+    color: white;
+    border: rgb(230, 83, 60);
+ } 
 
  .run img{
     width: 360px;

@@ -26,4 +26,31 @@
     margin-left: 110px;
     padding-bottom: 20px;
 }
+
+.run-and-extra{
+    flex-direction: column;
+    
+}
+
+.run-contant{
+    width: 100%;
+}
+.run{
+    width: 100%;
+}
+.join{
+    width: 80%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
 }
