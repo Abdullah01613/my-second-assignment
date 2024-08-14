@@ -43,8 +43,21 @@
     width: 80%;
 }
 
-
-
+.bmi-calculator{
+    flex-direction: column;
+}
+.bmi-table{
+    padding-right: 40px;
+}
+.calcutale-bmi{
+    padding-left: 40px;
+}
+.Select{
+    width: 290px;
+}
+.join-calculate{
+    padding: 15px 80px;
+}
 
 
 

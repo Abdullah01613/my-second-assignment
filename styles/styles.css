@@ -181,4 +181,46 @@ i{
 
 .bmi-calculator{
     background: #222222;
+    display: flex;
+    width: 100%;
+    margin: 0 auto;
+    justify-content: space-between;
+}
+
+table, tr, td{
+     border: 1px solid 
+    rgba(255, 255, 255, 0.1);
+    border-collapse: collapse;
+    width: 100%;
+}
+
+tr, td{
+    padding: 10px;
+}
+.bmi-table{
+    padding-left: 45px;
+}
+
+.input-selector input, select{
+    width: 35%;
+    padding: 5px 30px 5px 5px;
+    background: #393939;
+    border-radius: 8px;
+    border: #393939;
+
+}
+.calcutale-bmi{
+    padding-right: 45px;
+}
+.Select{
+    margin-top: 10px;
+    width: 358px;
+    margin-bottom: 10px;
+}
+.join-calculate{
+    border-radius: 42px; 
+    background: rgb(230, 83, 60); 
+    padding: 10px 40px;
+    color: white;
+    border: rgb(230, 83, 60);
 }
