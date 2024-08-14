@@ -100,7 +100,7 @@
  </div>
 
  <section class="bmi-calculator">
-    <div>
+    <div class="bmi-table">
         <h3>BMI Calculator Chart</h3>
         <table>
             <tr>
@@ -111,7 +111,38 @@
               <td>Below 18.5</td>
               <td>Underweight</td>
             </tr>
+            <tr>
+                <td>18.5 - 24.9</td>
+                <td>Healthy</td>
+            </tr>
+            <tr>
+                <td>25.0 - 29.9</td>
+                <td>Overweight</td>
+            </tr>
+            <tr>
+                <td>30.0 - and Above</td>
+                <td>Obese</td>
+            </tr>
           </table>
+    </div>
+    
+    <div class="calcutale-bmi">
+        <h3>Calcutale Your BMI</h3>
+        <p>We believe fitness should be accessible to everyone, everywhere, regardless of income or access to a gym. </p>
+        <form action="text">
+           <div class="input-selector">
+            <input type="text" placeholder="Height/cm">
+            <input type="text" placeholder="Weight/kg"> <br>
+            <input type="text" placeholder="Age">
+            <select>
+                <option value="Sex">Sex</option>
+            </select>
+           </div>
+            <select>
+                <option value="">Select an activity factor</option>
+            </select>
+        </form>
+        <button>Calculate</button>
     </div>
  </section>
 </body>
