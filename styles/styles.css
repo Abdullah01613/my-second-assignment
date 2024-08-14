@@ -104,3 +104,49 @@ i{
     right: 280px;
     bottom: 50px;
 }
+/* habbit start */
+
+.habbit-contant{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    margin: 80px 0 20px 0;
+}
+.habbit-img{
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    padding: 5% 0%;
+}
+.habbit-img img{
+    border-radius: 50%;
+}
+/* finish
+ */
+
+ .run-and-extra{
+    display: flex;
+    width: 80%;
+    background: #222222;
+    justify-content: space-between;
+    margin: 0 auto;
+    border-radius: 20px;
+ }
+
+ .run-contant{
+    width: 40%;
+    margin-top: 35px;
+    padding: 20px;
+ }
+ .run-contant p{
+    padding-bottom: 10px;
+ }
+
+ .run img{
+    width: 360px;
+    border-radius: 35px;
+    padding: 27px;
+    height: 300px;
+ }

@@ -17,4 +17,13 @@
 .banner-right{
     width: 100%; 
 }
+.habbit-img{
+
+    flex-direction: column;
+     /* margin-left: 5%; */
+}
+.Movement{
+    margin-left: 110px;
+    padding-bottom: 20px;
+}
 }
