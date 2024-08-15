@@ -261,13 +261,36 @@ tr, td{
     padding-left: 25px;
     padding-bottom: 20px;
 }
-hr{
-    width: 80%;
-    border: 1px solid 
-    rgba(255, 255, 255, 0.1);
-    margin: 0 20px 20px 120px;
+
+/* footer start here  */
+
+.footer-last{
+    background: #1A1A1A;
+    display: flex;
+    justify-content: space-evenly;
+    padding-bottom: 60px;
 }
 
-.all-right{
-    padding-left: 40%; padding-bottom: 15px;
+.footer-1{
+    margin-top: 20px;
 }
+li{
+    list-style-type: none;
+    color: rgba(255, 255, 255, 0.5);
+}
+.footer-2{
+    margin-top: 20px;
+}
+
+
+.hr{
+     width: 50%;
+    margin: 20px 20px 20px 120px;
+ }  
+
+
+ .all-right{
+    padding-left: 40%; 
+    padding-bottom: 15px;
+    color: rgba(255, 255, 255, 0.5);
+} 

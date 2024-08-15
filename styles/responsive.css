@@ -82,7 +82,10 @@ hr{
     padding-top: 30px;
 }
 
-
+.footer-last{
+    flex-direction: column;
+    padding-left: 20px;
+}
 
 
 
