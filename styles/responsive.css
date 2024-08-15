@@ -61,10 +61,25 @@
 
 .meet-team-img{
     flex-direction: column;
+    width: 90%;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 .meet-team-img img{
-    /* padding-left: 20px; */
+    margin-left: 35px;
     border-radius: 48px;
+    width: 80%;
+    height: 80%;
+}
+
+hr{
+ width: 90%;
+    margin: 0 auto;
+}
+
+.all-right{
+    padding-left: 60px;
+    padding-top: 30px;
 }
 
 

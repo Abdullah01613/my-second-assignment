@@ -243,11 +243,10 @@ tr, td{
     width: 80%;
     background: #1A1A1A;
     display: flex;
-    flex-direction: row;
-    gap: 10px;
-    flex-wrap: nowrap;
-    margin: 0 auto;
+    gap: 5px;
+    margin: 0 20px 20px 120px;
     border-radius: 18px;
+
 
 }
 
@@ -259,13 +258,16 @@ tr, td{
 
 .traine-1{
     margin-top: 20px;
-    padding-left: 20px;
+    padding-left: 25px;
     padding-bottom: 20px;
 }
 hr{
-    width: 100%;
+    width: 80%;
     border: 1px solid 
     rgba(255, 255, 255, 0.1);
-    /* padding-top: 40px; */
-    /* margin: 0 auto; */
+    margin: 0 20px 20px 120px;
+}
+
+.all-right{
+    padding-left: 40%; padding-bottom: 15px;
 }
