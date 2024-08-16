@@ -59,6 +59,25 @@
     padding: 15px 80px;
 }
 
+
+.meet-team-section{
+    grid-template-columns: 1fr;
+    width: 90%;
+    margin: 0 auto;
+}
+
+.meet-team-img{
+    width: 80%;
+    grid-template-columns: 1fr;
+    gap: 2px;
+}
+
+.meet-team-img h3{
+    padding-left: 50px;
+}
+
+
+
 .meet-team-img{
     flex-direction: column;
     width: 90%;
@@ -86,6 +105,7 @@ hr{
     flex-direction: column;
     padding-left: 20px;
 }
+
 
 
 
